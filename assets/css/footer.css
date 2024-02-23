@@ -1,0 +1,10 @@
+/* Style for social media links */
+.social-media-links a {
+    color: #fff; /* White color for social media links */
+}
+
+/* Style for footer section */
+.footer-section {
+    background-color: #333; /* Dark background color for footer */
+    color: #fff; /* White text color for footer */
+}

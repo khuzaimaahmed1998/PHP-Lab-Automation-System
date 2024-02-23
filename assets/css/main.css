@@ -1,0 +1,22 @@
+/* Style for content container */
+.content-container {
+    background-image: url('../imgs/bg.jpg'); /* Background image */
+    background-repeat: no-repeat; /* Prevent image from repeating */
+    background-position: center; /* Center the background image */
+    background-size: cover; /* Cover the entire container with the background image */
+}
+
+/* Style for welcome message and overview section */
+.welcome-message,
+.overview-section {
+    color: #fff; /* White text color */
+    text-align: center; /* Center align text */
+    padding: 50px 0; /* Add padding */
+}
+
+/* Style for paragraphs within the overview section */
+.overview-section p {
+    font-size: 18px; /* Set font size */
+    max-width: 800px; /* Set maximum width */
+    margin: 0 auto; /* Center align the paragraph */
+}
